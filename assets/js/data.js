@@ -32,74 +32,29 @@ var dataClips = {
 	},
 	5: {
 		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
+			'https://mega.nz/embed/WcQxDCwR#zTDH9AGcUXt63NBbMqyWayBiL6_L8uLKemRBlkoao2c'
 		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
+		'tags': 'vú to, sex Châu Á'
 	},
 	6: {
 		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
+			'https://mega.nz/embed/OJYwAJCJ#Cbi2Xyz3IIGVns78GHsic5xjP-StkA9WmCqgxGhGBGo',
+			'https://mega.nz/embed/aFYWnbIT#ZGZzQuklRIFBJ_hUxEi7stMNBfbALIl-NYMa8Tqnle8',
+			'https://mega.nz/embed/PUAFnQxb#xYbhnfquuWBJ4DX5gN2BNKuJdU9W5YxIbqVEpd9IqGE',
+			'https://mega.nz/embed/7ApQ3b6S#nqKjfirAn2k7kUChKWP89qWErkM7YfGxM38ZudATXY8'
 		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
+		'tags': ''
 	},
 	7: {
 		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
+			''
 		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
+		'tags': ''
 	},
 	8: {
 		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
+			''
 		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
-	},
-	9: {
-		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
-		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
-	},
-	10: {
-		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
-		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
-	},
-	11: {
-		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
-		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
-	},
-	12: {
-		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
-		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
-	},
-	13: {
-		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
-		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
-	},
-	14: {
-		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
-		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
-	},
-	15: {
-		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
-		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
-	},
-	16: {
-		'urls': [
-			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
-		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
+		'tags': ''
 	}
 };
