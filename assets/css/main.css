@@ -1,3 +1,4 @@
 .border-bottom-dashed {border-bottom: 1px dashed !important;}
+.item a.text-primary{font-weight: bold;}
 body.dark{background-color: #343333!important;color: #fff!important;}
 .dark .border-bottom-dashed{border-bottom-color: #7a7a7a !important;}
