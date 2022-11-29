@@ -66,10 +66,12 @@ function loadItemClip(id) {
     html += `<h1 class="fs-3">Clip sex ${id}</h1>`;
     var i = 1;
     for (var index in dataClips[id].urls) {
-        html += `<div class="item mt-4 mb-5">
-                        <iframe width="100%" height="360" frameborder="0" src="${dataClips[id].urls[index]}" allowfullscreen ></iframe>
-                        <p class="fw-bold text-center">Phần ${i}</p>
-                    </div>`;
+        html += `<div class="item mt-4 mb-5">`;
+        html += `<iframe width="100%" height="360" frameborder="0" src="${dataClips[id].urls[index]}" allowfullscreen ></iframe>`;
+        if (Object.keys(dataClips[id].urls).length > 1) {
+          html += `<p class="fw-bold text-center">Phần ${i}</p>`;
+        }
+        html += `</div>`;
         i++;
     }
     html += `<div class="pt-0 border-bottom"><h2 class="fs-3">Bạn Muốn Xem Tiếp?</h2></div>`;
