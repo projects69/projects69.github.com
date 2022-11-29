@@ -35,12 +35,14 @@ function loadItemsHome(page) {
     var html = '';
     var length = Object.keys(dataClips).length;
     for (var id = (length - offset); id >= ((length - offset)-numItemInPage+1); id--) {
-        html += `<div class="item row border-bottom border-bottom-dashed my-4">
+        if(dataClips[id]){
+            html += `<div class="item row border-bottom border-bottom-dashed my-4">
                         <div class="col-4 px-0">
                             <a class="d-block text-primary text-decoration-none" href="/?clip=${id}" target="_blank">Clip ${id}</a>
                         </div>
                         <div class="col-8 text-end px-0 text-nowrap overflow-hidden">${dataClips[id].tags}</div>
                     </div>`;
+        }
     }
     $('.items').html(html);
     if (Object.keys(dataClips).length > numItemInPage) {
