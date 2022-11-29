@@ -3,7 +3,7 @@ var dataClips = {
 		'urls': [
 			'https://mega.nz/embed/fJpQECBJ#dSH8_P2hEo7sihK161crWj1vwKzw4hp7JWW98048meg'
 		],
-		'tags': 'lên đỉnh, co giật, rên la, quan hệ'
+		'tags': 'lên đỉnh, rên la, sex Châu Á'
 	},
 	2: {
 		'urls': [
@@ -16,7 +16,7 @@ var dataClips = {
 			'https://mega.nz/embed/vZAHFaoS#VQz5dFG5gnY3Ub22n-zXr4UzBJSctsakEkDyJptWHwE',
 			'https://mega.nz/embed/yAIV2CgY#nPYbkN8agAboSKv6QoEAgKhPZfmmGDsNbuvYu2C8Uig'
 		],
-		'tags': 'jav, lên đỉnh, rên la, móc lồn, quan hệ, doggy'
+		'tags': 'jav, lên đỉnh, rên la, doggy'
 	},
 	3: {
 		'urls': [
