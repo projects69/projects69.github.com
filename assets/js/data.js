@@ -43,18 +43,12 @@ var dataClips = {
 			'https://mega.nz/embed/PUAFnQxb#xYbhnfquuWBJ4DX5gN2BNKuJdU9W5YxIbqVEpd9IqGE',
 			'https://mega.nz/embed/7ApQ3b6S#nqKjfirAn2k7kUChKWP89qWErkM7YfGxM38ZudATXY8'
 		],
-		'tags': ''
+		'tags': 'clip sex tổng hợp'
 	},
 	7: {
 		'urls': [
-			''
+			'https://mega.nz/embed/bBhGTJzC#olhiNbnM1gSggTODveppI6IpDQMKTco5ZenK-YXT21s'
 		],
-		'tags': ''
-	},
-	8: {
-		'urls': [
-			''
-		],
-		'tags': ''
+		'tags': 'clip sex tổng hợp'
 	}
 };
