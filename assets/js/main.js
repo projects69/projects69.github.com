@@ -35,7 +35,7 @@ function loadItemsHome(page) {
     var html = '';
     var length = Object.keys(dataClips).length;
     for (var id = (length - offset); id >= ((length - offset)-numItemInPage+1); id--) {
-        html += `<div class="item row border-bottom border-dotted my-4">
+        html += `<div class="item row border-bottom border-bottom-dashed my-4">
                         <div class="col-4 px-0">
                             <a class="d-block text-primary text-decoration-none" href="/?clip=${id}" target="_blank">Clip ${id}</a>
                         </div>
@@ -78,7 +78,7 @@ function loadItemClip(id) {
         var index = id + i;
         if(dataClips[index]) {
             indexed += 1;
-            html2 += `<div class="item row border-bottom border-dotted my-3">
+            html2 += `<div class="item row border-bottom border-bottom-dashed my-3">
                         <div class="col-4 px-0">
                             <a class="d-block text-primary text-decoration-none" href="/?clip=${index}">Clip ${index}</a>
                         </div>
@@ -91,7 +91,7 @@ function loadItemClip(id) {
         for (var i = 1; i <= (6-indexed); i++) {
             var index = id - i;
             if(dataClips[index]) {
-                html2 += `<div class="item row border-bottom border-dotted my-4">
+                html2 += `<div class="item row border-bottom border-bottom-dashed my-4">
                             <div class="col-4 px-0">
                                 <a class="d-block text-primary text-decoration-none" href="/?clip=${index}">Clip ${index}</a>
                             </div>
@@ -109,7 +109,7 @@ function loadItemClip(id) {
     var length = Object.keys(dataClips).length;
     for (var i = length; i >= (length - 5); i--) {
         if(dataClips[i]) {
-            html += `<div class="item row border-bottom border-dotted my-3">
+            html += `<div class="item row border-bottom border-bottom-dashed my-3">
                         <div class="col-4 px-0">
                             <a class="d-block text-primary text-decoration-none" href="/?clip=${i}">Clip ${i}</a>
                         </div>
